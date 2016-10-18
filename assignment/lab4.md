@@ -1,7 +1,7 @@
 #lab4实验报告
 ##1.死锁截图
 
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3229070-a1eb2a830bedb73c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3229070-d8c2742cae6db8b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ##2.死锁产生四大必要条件
 ###1.互斥。一个实例每次只能被一个进程占有。
 ###2.占有且等待。一个进程占有了一个或多个实例，但是它所需要的别的实例被别的进程所占有，且该进程不放弃当前所占有的实例。
